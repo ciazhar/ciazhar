@@ -1,8 +1,9 @@
-# awesome 
+# Awesome 
+Awesome List Project for Learning Something
 
 ## Content
-- [Spring](##spring)
-- [Angular](##angular)
+- [Spring](#spring)
+- [Angular](#angular)
 
 
 ## Spring
