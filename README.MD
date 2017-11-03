@@ -14,7 +14,7 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 - [Consume Rest API]()
 
 ### REST API + Databases
-- [Rest API + JPA (SQL)]()
+- [Rest API + JPA (SQL)](https://github.com/ciazhar/kotlin-spring-boot-jpa-rest)
 - [Rest API + MongoDB (NoSQL)]()
 
 ### Template Engine + Databases
@@ -37,25 +37,25 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 - [Reactive Rest API + MongoDB]()
 
 ### Stream
-- [Streaming Video]()
+- [Streaming Video](https://github.com/ciazhar/spring-video-stream)
 
 ### Microservice
-- [Discovery service]()
-- [Config service(File System)]()
-- [Config service(Vault)]()
-- [Config service(Git Repository)]()
-- [API Gateaway]()
+- [Discovery service](https://github.com/ciazhar/spring-cloud-eureka-server)
+- [Config service(File System)](https://github.com/ciazhar/spring-cloud-config-server-file-system)
+- [Config service(Vault)](https://github.com/ciazhar/spring-cloud-config-server-vault)
+- [Config service(Git Repository)](https://github.com/ciazhar/spring-cloud-config-server-git-repository)
+- [API Gateaway](https://github.com/ciazhar/spring-cloud-zuul)
 - [Circuit Breaker]()
 - [Distributed Tracing]()
-- [Auth service]()
-- [Account service]()
-- [Firebase Push Notification service]()
-<!-- [Jelajah service]()  -->
-<!-- [Maketto service]() -->
-<!-- [Animus service]() -->
-<!-- [Linkz service]() -->
+- [Auth service](https://github.com/ciazhar/auth-server)
+- [Account service](https://github.com/ciazhar/account-service)
+- [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification)
+<!-- - [Jelajah service]()  -->
+<!-- - [Maketto service](https://github.com/ciazhar/clorus-maketto-service) -->
+<!-- - [Animus service](https://github.com/ciazhar/animus-service)        -->
+<!-- - [Linkz service]() -->
 
 ## Angular
-Spring is a framework for building Web Application Javascript and Typescript. Here is some sample project using Angular.
-- [Faq Udinus]()
-- [Gold Store]()
+Angular is a framework for building Web Application Javascript and Typescript. Here is some sample project using Angular.
+- [Faq Udinus](https://github.com/ciazhar/faq-udinus)
+- [Gold Store](https://github.com/ciazhar/gold-store)
