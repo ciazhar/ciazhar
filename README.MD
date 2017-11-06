@@ -10,7 +10,7 @@ Awesome List Project for Learning Something
 Spring is a framework for building Backend Application with JVM Language. Here is some sample project using Spring.
 
 ### REST API
-- [Simple Rest API]()
+- [Simple Rest API](https://github.com/ciazhar/spring-boot-rest-api)
 - [Consume Rest API]()
 
 ### REST API + Databases
@@ -33,8 +33,8 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 ### Mail
 - [Mail]()
 
-### Reactive REST API + Databases
-- [Reactive Rest API + MongoDB]()
+### Reactive 
+- [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-boot-reactive-rest-mongo-security)
 
 ### Stream
 - [Streaming Video](https://github.com/ciazhar/spring-video-stream)
@@ -50,7 +50,7 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 - [Auth service](https://github.com/ciazhar/auth-server)
 - [Account service](https://github.com/ciazhar/account-service)
 - [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification)
-<!-- - [Jelajah service]()  -->
+<!-- - [Jelajah service](https://github.com/ciazhar/jelajah-service)  -->
 <!-- - [Maketto service](https://github.com/ciazhar/clorus-maketto-service) -->
 <!-- - [Animus service](https://github.com/ciazhar/animus-service)        -->
 <!-- - [Linkz service]() -->
