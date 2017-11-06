@@ -11,27 +11,27 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 
 ### REST API
 - [Simple Rest API](https://github.com/ciazhar/spring-boot-rest-api)
-- [Consume Rest API]()
+<!-- - [Consume Rest API]() -->
 
 ### REST API + Databases
 - [Rest API + JPA (SQL)](https://github.com/ciazhar/kotlin-spring-boot-jpa-rest)
-- [Rest API + MongoDB (NoSQL)]()
+<!-- - [Rest API + MongoDB (NoSQL)]() -->
 
-### Template Engine + Databases
-- [Backend Template Engine with Thymeleaf]()
+<!-- ### Template Engine + Databases
+- [Backend Template Engine with Thymeleaf]() -->
 
-### Database Migration
-- [Database Migration with FlywayDB]()
+<!-- ### Database Migration
+- [Database Migration with FlywayDB]() -->
 
-### Security
+<!-- ### Security
 - [Rest API Security with Basic Auth + CSRF]()
-- [Rest API Security with OAuth2 + JWT]()
+- [Rest API Security with OAuth2 + JWT]() -->
 
-### Reporting
-- [Reporting in PDF/Spreadsheet with Jasper Report]()
+<!-- ### Reporting
+- [Reporting in PDF/Spreadsheet with Jasper Report]() -->
 
-### Mail
-- [Mail]()
+<!-- ### Mail
+- [Mail]() -->
 
 ### Reactive 
 - [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-boot-reactive-rest-mongo-security)
@@ -45,8 +45,8 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 - [Config service(Vault)](https://github.com/ciazhar/spring-cloud-config-server-vault)
 - [Config service(Git Repository)](https://github.com/ciazhar/spring-cloud-config-server-git-repository)
 - [API Gateaway](https://github.com/ciazhar/spring-cloud-zuul)
-- [Circuit Breaker]()
-- [Distributed Tracing]()
+<!-- - [Circuit Breaker]()
+- [Distributed Tracing]() -->
 - [Auth service](https://github.com/ciazhar/auth-server)
 - [Account service](https://github.com/ciazhar/account-service)
 - [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification)
