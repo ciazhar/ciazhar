@@ -38,11 +38,10 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 <!-- - [Reactive REST API Router Based]() -->
 <!-- - [Consume Reactive REST API]() -->
 <!-- - [Stream REST API]() -->
-- [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-boot-reactive-rest-mongo-security)
+- [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-webflux-mongo-security)
 <!-- - [Reactive Basic Auth + CORS]() -->
-<!-- - [Reactive Multipart File]() -->
 <!-- - [Reactive Rest API + Cassandra]() -->
-
+<!-- - [Websocket]() -->
 ### Stream
 - [Streaming Video](https://github.com/ciazhar/spring-video-stream)
 
@@ -54,16 +53,17 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 - [API Gateaway](https://github.com/ciazhar/spring-cloud-zuul)
 <!-- - [Circuit Breaker]()
 - [Distributed Tracing]() -->
-- [Auth service](https://github.com/ciazhar/auth-server)
-- [Account service](https://github.com/ciazhar/account-service)
-- [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification)
-- [Cart Service](https://github.com/ciazhar/cart-service)
+- [Auth service](https://github.com/ciazhar/spring-auth-server)
+- [Account service](https://github.com/ciazhar/spring-account-service)
+- [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification-service)
+- [Cart Service](https://github.com/ciazhar/spring-cart-service)
+- [Reactive Multipart File](https://github.com/ciazhar/spring-multipart-service) 
 <!-- - [Jelajah service](https://github.com/ciazhar/jelajah-service)  -->
-<!-- - [Maketto service](https://github.com/ciazhar/clorus-maketto-service) -->
-<!-- - [Animus service](https://github.com/ciazhar/animus-service)        -->
+<!-- - [Maketto service](https://github.com/ciazhar/spring-maketto-service) -->
+<!-- - [Animus service](https://github.com/ciazhar/spring-animus-service)        -->
 <!-- - [Linkz service]() -->
 
 ## Angular
 Angular is a framework for building Web Application Javascript and Typescript. Here is some sample project using Angular.
-- [Faq Udinus](https://github.com/ciazhar/faq-udinus)
-- [Gold Store](https://github.com/ciazhar/gold-store)
+- [Faq Udinus](https://github.com/ciazhar/angular-faq-udinus)
+- [Gold Store](https://github.com/ciazhar/angular-gold-store)
