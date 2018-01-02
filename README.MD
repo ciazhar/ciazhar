@@ -19,11 +19,25 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 
 <!-- - [Consume Rest API with RestTemplate]() -->
 
+- [Reactive REST API Annotation Based](https://github.com/ciazhar/spring-webflux-annotation-based)
+
+<!-- - [Reactive REST API Router Based]() -->
+<!-- - [(TBD) Consume Reactive REST API with WebClient]() -->
+<!-- - [(TBD) Spring Webflux Configuration]() -->
+<!-- - [(TBD) Stream REST API]() -->
+<!-- - [(TBD) Spring Webflux Websocket]() -->
+
 #### REST API + Databases
 
 - [Rest API + JPA (SQL)](https://github.com/ciazhar/kotlin-spring-boot-jpa-rest)
 
 <!-- - [(TBD) Rest API + MongoDB (NoSQL)]()  -->
+
+- [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-webflux-mongo-security)
+
+<!-- - [(TBD) Reactive Rest API + Cassandra]() -->
+<!-- - [(TBD) Reactive Rest API + Redis]() -->
+<!-- - [(TBD) Reactive Rest API + Couchbase]() -->
 
 <!-- #### Template Engine + Databases
 - [(TBD) Backend Template Engine with Thymeleaf]() -->
@@ -34,26 +48,10 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 <!-- #### Security
 - [(TBD) Rest API Security with Basic Auth + CSRF]()
 - [(TBD) Rest API Security with OAuth2 + JWT]() -->
+<!-- - [(TBD) Reactive Basic Auth + CORS]() -->
 
 <!-- #### Reporting
 - [(TBD) Reporting in PDF/Spreadsheet with Jasper Report]() -->
-
-### Spring Webflux
-
-- [Reactive REST API Annotation Based](https://github.com/ciazhar/spring-webflux-annotation-based)
-
-<!-- - [Reactive REST API Router Based]() -->
-<!-- - [(TBD) Consume Reactive REST API with WebClient]() -->
-<!-- - [(TBD) Spring Webflux Configuration]() -->
-<!-- - [(TBD) Stream REST API]() -->
-<!-- - [(TBD) Spring Webflux Websocket]() -->
-
-- [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-webflux-mongo-security)
-
-<!-- - [(TBD) Reactive Basic Auth + CORS]() -->
-<!-- - [(TBD) Reactive Rest API + Cassandra]() -->
-<!-- - [(TBD) Reactive Rest API + Redis]() -->
-<!-- - [(TBD) Reactive Rest API + Couchbase]() -->
 
 ### Microservice
 
