@@ -1,66 +1,80 @@
-# Awesome 
+# Awesome
+
 Awesome List Project for Learning Something
 
 ## Content
+
 - [Spring](#spring)
 - [Angular](#angular)
 
-
 ## Spring
+
 Spring is a framework for building Backend Application with JVM Language. Here is some sample project using Spring.
 
 ### Spring MVC
 
 #### REST API
+
 - [Simple Rest API](https://github.com/ciazhar/spring-boot-rest-api)
-- [Consume Rest API with RestTemplate]()
+
+<!-- - [Consume Rest API with RestTemplate]() -->
 
 #### REST API + Databases
+
 - [Rest API + JPA (SQL)](https://github.com/ciazhar/kotlin-spring-boot-jpa-rest)
-- [(TBD) Rest API + MongoDB (NoSQL)]() 
 
-#### Template Engine + Databases
-- [(TBD) Backend Template Engine with Thymeleaf]()
+<!-- - [(TBD) Rest API + MongoDB (NoSQL)]()  -->
 
-#### Database Migration
-- [(TBD) Database Migration with FlywayDB]()
+<!-- #### Template Engine + Databases
+- [(TBD) Backend Template Engine with Thymeleaf]() -->
 
-#### Security
+<!-- #### Database Migration
+- [(TBD) Database Migration with FlywayDB]() -->
+
+<!-- #### Security
 - [(TBD) Rest API Security with Basic Auth + CSRF]()
-- [(TBD) Rest API Security with OAuth2 + JWT]()
+- [(TBD) Rest API Security with OAuth2 + JWT]() -->
 
-#### Reporting
-- [(TBD) Reporting in PDF/Spreadsheet with Jasper Report]()
-
+<!-- #### Reporting
+- [(TBD) Reporting in PDF/Spreadsheet with Jasper Report]() -->
 
 ### Spring Webflux
+
 - [Reactive REST API Annotation Based](https://github.com/ciazhar/spring-webflux-annotation-based)
-- [Reactive REST API Router Based]()
-- [(TBD) Consume Reactive REST API with WebClient]()
-- [(TBD) Spring Webflux Configuration]()
-- [(TBD) Stream REST API]()
-- [(TBD) Spring Webflux Websocket]()
+
+<!-- - [Reactive REST API Router Based]() -->
+<!-- - [(TBD) Consume Reactive REST API with WebClient]() -->
+<!-- - [(TBD) Spring Webflux Configuration]() -->
+<!-- - [(TBD) Stream REST API]() -->
+<!-- - [(TBD) Spring Webflux Websocket]() -->
+
 - [Reactive Rest API + MongoDB + Security](https://github.com/ciazhar/spring-webflux-mongo-security)
-- [(TBD) Reactive Basic Auth + CORS]()
-- [(TBD) Reactive Rest API + Cassandra]()
-- [(TBD) Reactive Rest API + Redis]()
-- [(TBD) Reactive Rest API + Couchbase]()
+
+<!-- - [(TBD) Reactive Basic Auth + CORS]() -->
+<!-- - [(TBD) Reactive Rest API + Cassandra]() -->
+<!-- - [(TBD) Reactive Rest API + Redis]() -->
+<!-- - [(TBD) Reactive Rest API + Couchbase]() -->
 
 ### Microservice
+
 - [Discovery service with Spring Cloud Netflix Eureka](https://github.com/ciazhar/spring-cloud-eureka-server)
 - [Config service(File System) with Spring Cloud Config](https://github.com/ciazhar/spring-cloud-config-server-file-system)
 - [Config service(Vault) with Spring Cloud Config](https://github.com/ciazhar/spring-cloud-config-server-vault)
 - [Config service(Git Repository) with Spring Cloud Config](https://github.com/ciazhar/spring-cloud-config-server-git-repository)
 - [API Gateaway with Spring Cloud Netflix Zuul](https://github.com/ciazhar/spring-cloud-zuul)
-- [(TBD) API Gateaway with Spring Cloud Gateway]()
-- [(TBD) Circuit Breaker]()
-- [(TBD) Distributed Tracing]()
+
+<!-- - [(TBD) API Gateaway with Spring Cloud Gateway]() -->
+<!-- - [(TBD) Circuit Breaker]() -->
+<!-- - [(TBD) Distributed Tracing]() -->
+
 - [Auth service](https://github.com/ciazhar/spring-auth-server)
 - [Account service](https://github.com/ciazhar/spring-account-service)
-- [(TBD) Mail Service]()
+
+<!-- - [(TBD) Mail Service]() -->
+
 - [Firebase Push Notification service](https://github.com/ciazhar/spring-firebase-push-notification-service)
 - [Cart Service](https://github.com/ciazhar/spring-cart-service)
-- [Reactive Multipart File](https://github.com/ciazhar/spring-multipart-service) 
+- [Reactive Multipart File](https://github.com/ciazhar/spring-multipart-service)
 - [Reactive Video Service](https://github.com/ciazhar/spring-video-stream)
 
 <!-- - [Jelajah service](https://github.com/ciazhar/jelajah-service)  -->
@@ -69,6 +83,8 @@ Spring is a framework for building Backend Application with JVM Language. Here i
 <!-- - [Linkz service]() -->
 
 ## Angular
+
 Angular is a framework for building Web Application Javascript and Typescript. Here is some sample project using Angular.
+
 - [Faq Udinus](https://github.com/ciazhar/angular-faq-udinus)
 - [Gold Store](https://github.com/ciazhar/angular-gold-store)
