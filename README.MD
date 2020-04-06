@@ -1,11 +1,20 @@
 # Awesome
 
-Awesome List Project for Learning Something
+Awesome List Project for Learning Something. 
+Kumpulan Project Dokumentasi Belajar Saya.
 
 ## Content
 
+- [Golang](#golang)
 - [Spring](#spring)
 - [Angular](#angular)
+- [Krakend](#krakend)
+
+## Golang
+Here is some sample project using Golang :
+### Golang Clean Architecture
+
+### Golang CQRS + Redis
 
 ## Spring
 
